@@ -2,6 +2,7 @@ h1{
     color: blueviolet; text-shadow: rgb(142, 74, 74); text-shadow: 20px; text-align: center
 };
 body{  
+    background-color: #FFFF00;
     background-image: linear-gradient(rgb(223, 56, 98), rgb(255, 174, 0) )   
 }
 
