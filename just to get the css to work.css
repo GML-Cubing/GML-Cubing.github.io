@@ -4,3 +4,6 @@ h1{
 head{
     background-color: rgb(77,200,68);
 }
+#widget{
+    align-content: center;
+}
