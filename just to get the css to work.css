@@ -4,6 +4,12 @@ h1{
 body{
     background-color: rgb(77,200,68);
 }
+
 #widget{
-    align-content: center;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    border: 5px solid #FFFF00;
+    padding: 10px;
 }
+
