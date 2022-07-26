@@ -1,6 +1,6 @@
 body{  
     background-color: #FFFF00;
-    background-image: linear-gradient(rgb(223, 56, 98), rgb(255, 174, 0) )   
+    background-image: radial-gradient(circle, rgb(223, 56, 98), rgb(255, 174, 0) )   
 }
 
 h1{
